@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @dharmatejreddy
-- 👀 I’m interested in HTML,CSS,JavaScript,ReactJs and React Native
-- 🌱 I’m currently learning & working on building ReactJs Applications
+- 👋 Hi, I’m Dharmatej Reddy (@dharmatejreddy)
+- 👀 I’m interested in HTML, CSS, JavaScript, ReactJS and ReactNative
+- 🌱 I’m currently learning & working on building ReactJS & ReactNative Applications
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
